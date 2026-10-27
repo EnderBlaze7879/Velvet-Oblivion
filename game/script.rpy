@@ -121,5 +121,3 @@ label start:
 
         scene bg classroom1dark
         with dissolve
-
-        
