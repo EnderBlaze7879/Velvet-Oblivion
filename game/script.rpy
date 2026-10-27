@@ -121,3 +121,5 @@ label start:
 
         scene bg classroom1dark
         with dissolve
+
+        m "Who was that girl? I feel like I should know her, but I just cant remember."
