@@ -4,3 +4,4 @@ This project is genuinely just a way for me to practice my coding knowledge sinc
 Velvet Oblivion is a Visual Novel. add better description here pls :P
 
 Most assets currently used are a placeholder, and may be changed in the future.
+for Contributing, see [CONTRIBUTING.md](CONTRIBUTING.md)
