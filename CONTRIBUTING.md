@@ -6,6 +6,9 @@ For those individuals,
 
 ## Before You Start
 
+> [[NOTE]]
+> Remember to see [SETUP.md](SETUP.md) before starting!
+
 - Discuss major changes with the project owner before implementing them.
 
 - Check existing GitHub Issues before starting new work.
