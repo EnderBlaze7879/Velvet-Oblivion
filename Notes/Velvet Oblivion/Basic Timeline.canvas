@@ -7,7 +7,6 @@
 		{"id":"bd4c389d532f5bf1","type":"text","text":"Serein laughs your comment off","x":600,"y":-230,"width":250,"height":60},
 		{"id":"f111e45eedbd6d5b","type":"text","text":"Serein accuses you of lying about being awake, claiming you've been asleep all day","x":600,"y":-130,"width":250,"height":60},
 		{"id":"f468f175799453f5","type":"text","text":"Serein tells you to stop messing with her","x":600,"y":-40,"width":250,"height":60},
-		{"id":"af3fe6c9f3ff9f31","type":"file","file":"Timeline Reference.md","x":-760,"y":-420,"width":320,"height":220},
 		{"id":"c4a4bcb423fc4e91","type":"text","text":"# <p style=\"text-align: center\">START</p>","x":-740,"y":-160,"width":130,"height":120,"color":"1"},
 		{"id":"2d93174fb6b051b4","type":"text","text":"MC is sleeping, trying to figure out their name","x":-580,"y":-160,"width":220,"height":120},
 		{"id":"d765ef9b398de678","type":"text","text":"Player Inputs name of MC","x":-300,"y":-160,"width":220,"height":120,"color":"4"},
@@ -17,7 +16,9 @@
 		{"id":"eeb21b08ec0e26ab","type":"text","text":"MC follows Serein to class, not able to remember her name","x":1560,"y":-180,"width":240,"height":60},
 		{"id":"0b419566df5103a4","type":"text","text":"MC and Serein sit there for a moment","x":1560,"y":-80,"width":240,"height":60},
 		{"id":"9638db900b7a6d5e","type":"text","text":"Serein ends up getting impatient, going to class by herself, you following","x":1860,"y":-80,"width":250,"height":60},
-		{"id":"e0323a0b2ca31200","type":"text","text":"MC ponders what Serein's name is, not paying attention to the lecture","x":2200,"y":-160,"width":220,"height":120}
+		{"id":"e0323a0b2ca31200","type":"text","text":"MC ponders what Serein's name is, not paying attention to the lecture","x":2200,"y":-160,"width":220,"height":120},
+		{"id":"af3fe6c9f3ff9f31","type":"file","file":"Timeline Reference.md","x":-1100,"y":-210,"width":320,"height":220},
+		{"id":"21316aff4868aa9c","x":2480,"y":-160,"width":220,"height":120,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"268446ea16638ac7","fromNode":"c4a4bcb423fc4e91","fromSide":"right","toNode":"2d93174fb6b051b4","toSide":"left"},
