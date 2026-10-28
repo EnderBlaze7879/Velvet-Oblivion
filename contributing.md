@@ -56,3 +56,12 @@ The project owner has final approval over changes merged into the main branch.
 - Respect established character personalities and world-building.
 
 ## Code Contributions
+
+- Keep changes focused on the task you are working on.
+- Test your changes before submitting a PR.
+- Do not commit API keys, passwords, private credentials, or other secrets.
+
+## Art and Other Assets
+- At the moment, assets used are being used as placeholders. Only contribute assets you created yourself or have permission to use.
+- Include attribution and licensing information where required.
+- Use consistent filenames and formats.
