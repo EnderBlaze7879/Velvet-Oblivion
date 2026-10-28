@@ -13,7 +13,8 @@ If you haven't yet, install the latest version of [Visual Studio Code](https://c
 > [!NOTE]
 > For Git, you can find steps to login to your GitHub account [here](https://docs.github.com/en/get-started/git-basics/setting-your-username-in-git).
 
-Once you have Visual Studio Code and Git installed and configured to your liking, download the ((FINISH))
+Once you have Visual Studio Code and Git installed and configured to your liking, open Git Bash and type in ``` git remote add origin https://github.com/EnderBlaze7879/Velvet-Oblivion.git ``` and press Enter.
+
 
 Each environment is different depending on what you are contributing towards.
 
