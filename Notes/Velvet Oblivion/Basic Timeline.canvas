@@ -17,8 +17,17 @@
 		{"id":"0b419566df5103a4","type":"text","text":"MC and Serein sit there for a moment","x":1560,"y":-80,"width":240,"height":60},
 		{"id":"9638db900b7a6d5e","type":"text","text":"Serein ends up getting impatient, going to class by herself, you following","x":1860,"y":-80,"width":250,"height":60},
 		{"id":"e0323a0b2ca31200","type":"text","text":"MC ponders what Serein's name is, not paying attention to the lecture","x":2200,"y":-160,"width":220,"height":120},
-		{"id":"af3fe6c9f3ff9f31","type":"file","file":"Timeline Reference.md","x":-1100,"y":-210,"width":320,"height":220},
-		{"id":"21316aff4868aa9c","x":2480,"y":-160,"width":220,"height":120,"type":"text","text":""}
+		{"id":"af3fe6c9f3ff9f31","type":"file","file":"Timeline Reference.md","x":-1100,"y":-580,"width":320,"height":590},
+		{"id":"21316aff4868aa9c","type":"text","text":"MC is suddenly woken up by the teacher yelling at him to wake up","x":2480,"y":-160,"width":220,"height":120},
+		{"id":"b9f8134c3f61a6ca","type":"text","text":"MC responds to the teacher","x":2760,"y":-160,"width":220,"height":120},
+		{"id":"7aa7af8f9c3a677b","type":"text","text":"The teacher sees through the lie, seemingly more angry","x":3380,"y":-230,"width":240,"height":60},
+		{"id":"2b276227455bc292","type":"text","text":"The teacher will take offense to this comment","x":3380,"y":-130,"width":240,"height":60},
+		{"id":"0fbef9a8a8e28f41","type":"text","text":"The teacher will wait for a response","x":3380,"y":-40,"width":240,"height":60},
+		{"id":"726dd779941f8ac1","type":"text","text":"Serein interrupts the situation.","x":3720,"y":-160,"width":220,"height":120},
+		{"id":"8f1b6b2b1d0a3469","type":"text","text":"\"I'm sorry, I didn't get any sleep\"","x":3080,"y":-230,"width":240,"height":60,"color":"2"},
+		{"id":"28ec1d18d5caeb59","type":"text","text":"\"Not my fault, the lesson is too boring\"","x":3080,"y":-130,"width":240,"height":60,"color":"2"},
+		{"id":"130bca7f55c32118","type":"text","text":"\"...\"","x":3080,"y":-40,"width":240,"height":60,"color":"2"},
+		{"id":"7e8ef560e7cbd4c0","type":"text","text":"Serein whispers something to the teacher","x":4000,"y":-160,"width":220,"height":120}
 	],
 	"edges":[
 		{"id":"268446ea16638ac7","fromNode":"c4a4bcb423fc4e91","fromSide":"right","toNode":"2d93174fb6b051b4","toSide":"left"},
@@ -38,6 +47,18 @@
 		{"id":"5466ca7c066a718a","fromNode":"aab3055056b3efc7","fromSide":"right","toNode":"eeb21b08ec0e26ab","toSide":"left"},
 		{"id":"1ec666a5ddf878a7","fromNode":"0b419566df5103a4","fromSide":"right","toNode":"9638db900b7a6d5e","toSide":"left"},
 		{"id":"d92dab53bd52cd6b","fromNode":"eeb21b08ec0e26ab","fromSide":"right","toNode":"e0323a0b2ca31200","toSide":"left"},
-		{"id":"efac907faf02c5ca","fromNode":"9638db900b7a6d5e","fromSide":"right","toNode":"e0323a0b2ca31200","toSide":"left"}
+		{"id":"efac907faf02c5ca","fromNode":"9638db900b7a6d5e","fromSide":"right","toNode":"e0323a0b2ca31200","toSide":"left"},
+		{"id":"50f5d9ef3a805e55","fromNode":"e0323a0b2ca31200","fromSide":"right","toNode":"21316aff4868aa9c","toSide":"left"},
+		{"id":"5335a389376c5798","fromNode":"28ec1d18d5caeb59","fromSide":"right","toNode":"2b276227455bc292","toSide":"left"},
+		{"id":"886b67dbc34ff1e8","fromNode":"8f1b6b2b1d0a3469","fromSide":"right","toNode":"7aa7af8f9c3a677b","toSide":"left"},
+		{"id":"e11e2bcb736320a3","fromNode":"130bca7f55c32118","fromSide":"right","toNode":"0fbef9a8a8e28f41","toSide":"left"},
+		{"id":"b9b839717cdd6959","fromNode":"7aa7af8f9c3a677b","fromSide":"right","toNode":"726dd779941f8ac1","toSide":"left"},
+		{"id":"739a7b0bd1fdb9b5","fromNode":"2b276227455bc292","fromSide":"right","toNode":"726dd779941f8ac1","toSide":"left"},
+		{"id":"968d7beae7f13367","fromNode":"21316aff4868aa9c","fromSide":"right","toNode":"b9f8134c3f61a6ca","toSide":"left"},
+		{"id":"c6ada791c5f531c5","fromNode":"b9f8134c3f61a6ca","fromSide":"right","toNode":"8f1b6b2b1d0a3469","toSide":"left"},
+		{"id":"2904534a0866596c","fromNode":"b9f8134c3f61a6ca","fromSide":"right","toNode":"28ec1d18d5caeb59","toSide":"left"},
+		{"id":"1ecb4226170abf27","fromNode":"b9f8134c3f61a6ca","fromSide":"right","toNode":"130bca7f55c32118","toSide":"left"},
+		{"id":"47862a3fb2eac8ee","fromNode":"0fbef9a8a8e28f41","fromSide":"bottom","toNode":"b9f8134c3f61a6ca","toSide":"bottom"},
+		{"id":"7a45d2be4f7180a2","fromNode":"726dd779941f8ac1","fromSide":"right","toNode":"7e8ef560e7cbd4c0","toSide":"left"}
 	]
 }
