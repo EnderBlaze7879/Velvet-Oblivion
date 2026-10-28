@@ -6,6 +6,7 @@
       {
         "id": "bfe3c0eca551f27b",
         "type": "tabs",
+        "dimension": 16.778523489932887,
         "children": [
           {
             "id": "4b89c2f9bed2cc72",
@@ -26,15 +27,23 @@
       {
         "id": "a79f42be53a00724",
         "type": "tabs",
+        "dimension": 83.22147651006712,
         "children": [
           {
             "id": "5dbd700b86099d5f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Basic Timeline.canvas",
+                "viewState": {
+                  "x": 1032.412560729538,
+                  "y": 66.11969012711877,
+                  "zoom": -0.333333333333333
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Basic Timeline"
             }
           }
         ]
@@ -115,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Basic Timeline.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Basic Timeline.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -177,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Basic Timeline.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,8 +213,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "4b89c2f9bed2cc72",
+  "active": "5dbd700b86099d5f",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Timeline Reference.md",
+    "Welcome.md",
+    "Basic Timeline.canvas"
   ]
 }

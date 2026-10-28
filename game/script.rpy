@@ -59,7 +59,7 @@ label start:
             show serein pout at truecenter
             with dissolve
 
-            "???" "\"Seriously?{w} You don't even remember me?{w} I thought we were friends!\""
+            "???" "\"Ha ha, very funny!\""
 
         "\"I've been awake...\"":
 
@@ -96,7 +96,7 @@ label start:
             with dissolve
 
             "..."
-            "???" "\"Whatever. I'll just go to class by myself then.\""
+            "???" "\"Whatever. I guess i'll go to class by myself then.\""
             
             hide serein pout
             with dissolve
@@ -123,3 +123,4 @@ label start:
         with dissolve
 
         m "Who was that girl? I feel like I should know her, but I just cant remember."
+        m ""

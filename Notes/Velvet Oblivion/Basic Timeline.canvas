@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"d31809af6a672e5a","type":"text","text":"MC is woken up by Serein","x":-20,"y":-160,"width":220,"height":120},
+		{"id":"7859a28a353c16db","type":"text","text":"\"I've been awake...\"","x":295,"y":-130,"width":250,"height":60,"color":"2"},
+		{"id":"5bc51c5977538ce5","type":"text","text":"\"Who are you?\"","x":295,"y":-230,"width":250,"height":60,"color":"2"},
+		{"id":"40e29f995f6b801e","type":"text","text":"\"I don't know you.\"","x":295,"y":-40,"width":250,"height":60,"color":"2"},
+		{"id":"bd4c389d532f5bf1","type":"text","text":"Serein laughs your comment off","x":600,"y":-230,"width":250,"height":60},
+		{"id":"f111e45eedbd6d5b","type":"text","text":"Serein accuses you of lying about being awake, claiming you've been asleep all day","x":600,"y":-130,"width":250,"height":60},
+		{"id":"f468f175799453f5","type":"text","text":"Serein tells you to stop messing with her","x":600,"y":-40,"width":250,"height":60},
+		{"id":"af3fe6c9f3ff9f31","type":"file","file":"Timeline Reference.md","x":-760,"y":-420,"width":320,"height":220},
+		{"id":"c4a4bcb423fc4e91","type":"text","text":"# <p style=\"text-align: center\">START</p>","x":-740,"y":-160,"width":130,"height":120,"color":"1"},
+		{"id":"2d93174fb6b051b4","type":"text","text":"MC is sleeping, trying to figure out their name","x":-580,"y":-160,"width":220,"height":120},
+		{"id":"d765ef9b398de678","type":"text","text":"Player Inputs name of MC","x":-300,"y":-160,"width":220,"height":120,"color":"4"},
+		{"id":"05d7a97f0280c542","type":"text","text":"Serein reminds MC that class is starting","x":940,"y":-160,"width":220,"height":120},
+		{"id":"aab3055056b3efc7","type":"text","text":"Follow Her","x":1260,"y":-180,"width":240,"height":60,"color":"2"},
+		{"id":"8f4e0a3eb4720a44","type":"text","text":"Ignore Her","x":1260,"y":-80,"width":240,"height":60,"color":"2"},
+		{"id":"eeb21b08ec0e26ab","type":"text","text":"MC follows Serein to class, not able to remember her name","x":1560,"y":-180,"width":240,"height":60},
+		{"id":"0b419566df5103a4","type":"text","text":"MC and Serein sit there for a moment","x":1560,"y":-80,"width":240,"height":60},
+		{"id":"9638db900b7a6d5e","type":"text","text":"Serein ends up getting impatient, going to class by herself, you following","x":1860,"y":-80,"width":250,"height":60},
+		{"id":"e0323a0b2ca31200","type":"text","text":"MC ponders what Serein's name is, not paying attention to the lecture","x":2200,"y":-160,"width":220,"height":120}
+	],
+	"edges":[
+		{"id":"268446ea16638ac7","fromNode":"c4a4bcb423fc4e91","fromSide":"right","toNode":"2d93174fb6b051b4","toSide":"left"},
+		{"id":"dc54d959b787a171","fromNode":"d31809af6a672e5a","fromSide":"right","toNode":"5bc51c5977538ce5","toSide":"left"},
+		{"id":"9e2475fb6a85d6f8","fromNode":"d31809af6a672e5a","fromSide":"right","toNode":"7859a28a353c16db","toSide":"left"},
+		{"id":"94cf7ffcde387c12","fromNode":"d31809af6a672e5a","fromSide":"right","toNode":"40e29f995f6b801e","toSide":"left"},
+		{"id":"a1cf873f0dabc73d","fromNode":"5bc51c5977538ce5","fromSide":"right","toNode":"bd4c389d532f5bf1","toSide":"left"},
+		{"id":"50d2247a2882b828","fromNode":"7859a28a353c16db","fromSide":"right","toNode":"f111e45eedbd6d5b","toSide":"left"},
+		{"id":"806c134cb9b5dca0","fromNode":"40e29f995f6b801e","fromSide":"right","toNode":"f468f175799453f5","toSide":"left"},
+		{"id":"e83abf9a21be1849","fromNode":"2d93174fb6b051b4","fromSide":"right","toNode":"d765ef9b398de678","toSide":"left"},
+		{"id":"bb7e851f15c9a0b1","fromNode":"d765ef9b398de678","fromSide":"right","toNode":"d31809af6a672e5a","toSide":"left"},
+		{"id":"1569a7c59a3c1a5c","fromNode":"f111e45eedbd6d5b","fromSide":"right","toNode":"05d7a97f0280c542","toSide":"left"},
+		{"id":"5dc90cbcf6484b80","fromNode":"bd4c389d532f5bf1","fromSide":"right","toNode":"05d7a97f0280c542","toSide":"left"},
+		{"id":"ab1a3c554e1bbfd5","fromNode":"f468f175799453f5","fromSide":"right","toNode":"05d7a97f0280c542","toSide":"left"},
+		{"id":"a7bc0163152d4ea8","fromNode":"05d7a97f0280c542","fromSide":"right","toNode":"aab3055056b3efc7","toSide":"left"},
+		{"id":"46d03ec2e601d48b","fromNode":"05d7a97f0280c542","fromSide":"right","toNode":"8f4e0a3eb4720a44","toSide":"left"},
+		{"id":"5466ca7c066a718a","fromNode":"aab3055056b3efc7","fromSide":"right","toNode":"eeb21b08ec0e26ab","toSide":"left"},
+		{"id":"1ec666a5ddf878a7","fromNode":"0b419566df5103a4","fromSide":"right","toNode":"9638db900b7a6d5e","toSide":"left"},
+		{"id":"d92dab53bd52cd6b","fromNode":"eeb21b08ec0e26ab","fromSide":"right","toNode":"e0323a0b2ca31200","toSide":"left"},
+		{"id":"efac907faf02c5ca","fromNode":"9638db900b7a6d5e","fromSide":"right","toNode":"e0323a0b2ca31200","toSide":"left"}
+	]
+}
