@@ -6,9 +6,6 @@ For those individuals,
 
 ## Before You Start
 
-> [[NOTE]]
-> Remember to see [SETUP.md](SETUP.md) before starting!
-
 - Discuss major changes with the project owner before implementing them.
 
 - Check existing GitHub Issues before starting new work.
@@ -80,14 +77,44 @@ You'll need:
 
 > [!TIP]
 > To check Git is working, open a terminal and run:
-> ```
+> ```bash
 > git --version
 > ```
 > If it prints a version number, you're good.
 
 ## Getting set up
 
-1. Clone the repo, which downloads a copy of the project to your computer
+1. Open VS Code and press `Ctrl+Shift+P` (`Cmd+Shift+P` on Mac) to open the Command Palette
+2. Type **Git: Clone** and press Enter
+3. Paste this link and press Enter:
 ```
-git clone https://github.com/EnderBlaze7879/Velvet-Oblivion.git
+https://github.com/EnderBlaze7879/Velvet-Oblivion.git
 ```
+4. Pick a folder on your computer to save the project in, then click **Open** when VS Code asks
+
+> [!NOTE]
+> VS Code will most likely ask you to sign in to GitHub, so make sure to do so!
+
+## Create your branch
+
+Never work directly on `master`. Please make your own branch first:
+1. Click the branch name (it says `master`) in the **bottom-left corner** of VS Code
+2. Choose **Create new branch...**
+3. Type a name for the branch according to the branch name guidelines, and press Enter
+
+## Making changes
+
+1. Edit your files as normal and save them
+2. Click the **Source Control** icon in the left sidebar or press `Ctrl+Shift+G`. Your changed files are listed here
+3. Hover over **Changes** and click the **+** to stage everything. This will mark it to be saved
+4. Type a short message about what you did to the code in the box at the top.
+5. Click **Commit**.
+6. Click **Publish Branch** to upload your branch to GitHub. After the first time doing this step, the button says **Sync Changes** instead.
+
+## Staying up to date
+
+If `master` has changed while you were working:
+
+1. Press `Ctrl+Shift+P` and run **Git: Fetch**.
+2. Press `Ctrl+Shift+P` again and run **Git: Merge Branch...**
+3. Choose **origin/master**.
