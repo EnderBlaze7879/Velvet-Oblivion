@@ -75,6 +75,9 @@ You'll need:
 - **Git**: [[Download]](https://git-scm.com/downloads) (the default options in the installer are fine)
 - **VS Code** (or any editor you like, but VS Code is highly recommended): [[Download]](https://code.visualstudio.com/)
 
+> [!NOTE]
+> If you are looking to work with the story building or any other note related part of the project, make sure to install Obsidian alongside these in order to edit some specific files. [[Download]](https://obsidian.md/)
+
 > [!TIP]
 > To check Git is working, open a terminal and run:
 > ```bash
@@ -118,3 +121,4 @@ If `master` has changed while you were working:
 1. Press `Ctrl+Shift+P` and run **Git: Fetch**.
 2. Press `Ctrl+Shift+P` again and run **Git: Merge Branch...**
 3. Choose **origin/master**.
+
