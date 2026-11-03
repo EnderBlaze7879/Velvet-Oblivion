@@ -1,0 +1,1 @@
+- Serein is trying to prevent you from recollecting the rest of your lost memories, instead she tries to fabricate past and present ones. this is because she did something to you in the past
